@@ -1,0 +1,25 @@
+body {
+    font-family: 'ariel', cursive;
+    background-image: url("images/table.png");
+    background-size: cover; 
+    color: #ffffff; 
+    font-weight: bold; 
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    color: goldenrod;
+}
+button{
+    background-color: goldenrod;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    width: 150px;
+}
+
+#message-el {
+    text-transform: capitalize;
+}
